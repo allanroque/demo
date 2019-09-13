@@ -1,6 +1,5 @@
 <?php
 echo "<h1>Openshift cadastro de viagem </h1> ";
-echo "<h1>Openshift cadastro de viagem </h1> ";
 echo $_SERVER['SERVER_ADDR'];
 echo "<br><hr>";
 echo "<h2>Cidades visitadas nessa viagem!!!:</h2>";
